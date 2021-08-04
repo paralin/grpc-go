@@ -1,3 +1,5 @@
+// +build linux,!js wasm
+
 /*
  *
  * Copyright 2018 gRPC authors.
